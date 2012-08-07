@@ -104,7 +104,8 @@ jq(document).ready(function(){
         MinZoomSize : 0.2,
         MaxZoomSize : 5,
         SearchMatchAll : false,
-        InitViewMode : 'Portrait',
+        InitViewMode : 'TwoPage',
+        NavToolsVisible : true,
         PrintPaperAsBitmap : false,
 
         ViewModeToolsVisible : true,
